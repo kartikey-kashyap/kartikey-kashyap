@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi,I Kartikey Kashayp👋
 # 💫 About Me:
-➡️ I'm a passionate Computer Science graduate who loves to do <br>coding. My interest include software engineering, Data Analysis .<br>I like to learn new tech skills and implementing in rea- world. 
-
+➡️ I'm a passionate Computer Science graduate who loves to do <br>coding. My interest include software engineering, Data Analysis .<br>I like to learn new tech skills and implementing in real- world.
+🧠 I'm currently learning Python for Data Analytics.
+😊😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartikey5208) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kartikey Kashayp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kashyapkartik152@gmail.com) 
