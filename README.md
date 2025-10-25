@@ -1,4 +1,4 @@
-## Hi,I Kartikey Kashayp👋
+##👋 Hi there, I'm Kartikey Kashayp
 # 💫 About Me:
 ➡️ I'm a passionate Computer Science graduate who loves to do <br>coding. My interest include software engineering, Data Analysis .<br>I like to learn new tech skills and implementing in real- world.
 🧠 I'm currently learning Python for Data Analytics.
